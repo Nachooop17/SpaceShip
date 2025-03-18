@@ -4,6 +4,7 @@ body {
     margin: 0;
     overflow: hidden;
   }
+  
 
   #imagen {
     position: absolute;
@@ -26,3 +27,13 @@ body {
     height: 20px;
     background-color: rgb(7, 155, 7);
   }
+  .titulo {
+    font-size: 48px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #ffffff;          /* Color verde tipo pixel art */
+    text-align: center;      /* Centra el texto */
+    font-family: 'Courier New', monospace;  /* Estilo pixel */
+}
